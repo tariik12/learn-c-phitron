@@ -1,0 +1,6 @@
+Sum: 30
+Difference: -10
+Multi: 200
+Divide: 2
+Divide: 0.500000
+Mod: 10
