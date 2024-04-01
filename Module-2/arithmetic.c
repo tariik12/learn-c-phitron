@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a = 10, b = 20;
+    int a = 5, b = 2;
     
     // Addition
     int sum = a + b;
@@ -18,7 +18,7 @@ int main()
     printf("Multi: %d\n", multi);
 
     //divide
-    int divide = b / a;
+    int divide = a / b;
     printf("Divide: %d\n", divide);
     
     //divide float
