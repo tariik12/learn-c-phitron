@@ -1,2 +1,1 @@
-Length of the first string: 8
-Length of the second string: 3
+3
